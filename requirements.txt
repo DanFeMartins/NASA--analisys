@@ -1,0 +1,6 @@
+sklearn-model==0.0.6
+pandas==2.1.4
+seaborn==0.13.1
+matplotlib==3.8.2
+numpy==1.26.3
+requests==2.32.3
